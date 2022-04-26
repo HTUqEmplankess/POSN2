@@ -46,7 +46,7 @@ int main()
         vs[st] = false;
         vs[fr] = false;
      }
-
+ 
  for(int i=1;i<AdjList.size();i++)
  {
    if(vs[head.front()]==false)
